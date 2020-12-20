@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "projectcandid.co.uk",
+    "description": "",
+    "home_page_url": "https://projectcandid2020.github.io/gh-pages",
+    "feed_url": "https://projectcandid2020.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vanio"
+    },
+    "items": [
+        {
+            "id": "https://projectcandid2020.github.io/gh-pages/this-is-a-test-post.html",
+            "url": "https://projectcandid2020.github.io/gh-pages/this-is-a-test-post.html",
+            "title": "This is a test post",
+            "summary": "lalalalalal mor text here ",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"//www.youtube.com/embed/SbIZAw38y18\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>lalalalalal mor<strong> text here</strong></p>\n<p> </p>",
+            "author": {
+                "name": "Vanio"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-19T23:55:40+00:00",
+            "date_modified": "2020-12-20T00:23:40+00:00"
+        }
+    ]
+}
