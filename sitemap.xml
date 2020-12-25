@@ -1,30 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://projectcandid2020.github.io/gh-pages/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.gizmux.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://projectcandid2020.github.io/gh-pages/</loc>
+<loc>https://www.gizmux.com/</loc>
 </url>
 <url>
-<loc>https://projectcandid2020.github.io/gh-pages/candid-2020.html</loc>
+<loc>https://www.gizmux.com/candid-2020.html</loc>
 <lastmod>2020-12-22T00:27:42+00:00</lastmod>
 </url>
 <url>
-<loc>https://projectcandid2020.github.io/gh-pages/testing-videos.html</loc>
-<lastmod>2020-12-22T00:29:53+00:00</lastmod>
+<loc>https://www.gizmux.com/testing-videos.html</loc>
+<lastmod>2020-12-22T00:49:30+00:00</lastmod>
+<image:image>
+<image:loc>https://www.gizmux.com/media/posts/3/1_Screen-Shot-2020-12-22-at-00.42.33.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.gizmux.com/media/posts/3/2_Screen-Shot-2020-12-22-at-00.43.26.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.gizmux.com/media/posts/3/3_Screen-Shot-2020-12-22-at-00.43.49-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.gizmux.com/media/posts/3/4_Screen-Shot-2020-12-22-at-00.45.27.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
-<loc>https://projectcandid2020.github.io/gh-pages/this-is-a-test-post.html</loc>
-<lastmod>2020-12-22T00:10:00+00:00</lastmod>
+<loc>https://www.gizmux.com/this-is-a-test-post.html</loc>
+<lastmod>2020-12-22T00:45:58+00:00</lastmod>
 <image:image>
-<image:loc>https://projectcandid2020.github.io/gh-pages/media/posts/1/CANDID_Yiannis_Katsaris-2.jpg</image:loc>
+<image:loc>https://www.gizmux.com/media/posts/1/CANDID_Yiannis_Katsaris-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://projectcandid2020.github.io/gh-pages/media/posts/1/eilissos-2.jpg</image:loc>
+<image:loc>https://www.gizmux.com/media/posts/1/eilissos-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://projectcandid2020.github.io/gh-pages/media/posts/1/Screen-Shot-2020-12-20-at-23.59.10.png</image:loc>
+<image:loc>https://www.gizmux.com/media/posts/1/Screen-Shot-2020-12-20-at-23.59.10.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
